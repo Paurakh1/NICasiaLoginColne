@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NIC ASIA MoBANK</string>
+    <string name="logo">LOGO</string>
+    <string name="sms">sms</string>
+    <string name="mainlogo">mainlogo</string>
+    <string name="welcome">Welcome</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="Login">Login</string>
+    <string name="tap_to_login_with_biomatric">Tap to login with Biomatric</string>
+    <string name="unable_to_login">Unable to login</string>
+    <string name="todo">TODO</string>
+    <string name="logo2">logo2</string>
+    <string name="ads">ic_ads</string>
+    <string name="finger_print">finger_print</string>
+</resources>
